@@ -243,6 +243,10 @@ body {
   padding-bottom: 50px;
 }
 
+.menu_item_1{
+  width: 100% !important;
+}
+
 .menu_item {
   width: 49%;
   display: flex;
